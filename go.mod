@@ -1,3 +1,3 @@
-module github.com/ACPI-Webadmin/ACPI-Website
+module github.com/ACPI-Webadmin/acpi-website
 
 go 1.27.1
