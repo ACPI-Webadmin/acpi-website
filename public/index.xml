@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Association of Christian Philosophers of India (ACPI) on Association of Christian Philosophers of India</title>
+		<title>Association of Christian Philosophers of India</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content in Association of Christian Philosophers of India (ACPI) on Association of Christian Philosophers of India</description>
+		<description>Recent content on Association of Christian Philosophers of India</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
-			<lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ACPI Annual Meet (2026-2027)</title>
+				<link>http://localhost:1313/annual-meetings/upcoming-meeting/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/annual-meetings/upcoming-meeting/</guid>
+				<description>&lt;h2 id=&#34;pontifical-athenaeum---jnana-deepa-institute-of-philosophy--theology-pune&#34; class=&#34;relative group&#34;&gt;Pontifical Athenaeum - Jnana Deepa, Institute of Philosophy &amp;amp; Theology, Pune &lt;/h2&gt;&lt;h3 id=&#34;october-21-23-2026&#34; class=&#34;relative group&#34;&gt;October 21-23, 2026 &lt;/h3&gt;&lt;p&gt;Golden Jubilee of the ACPI.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The golden jubilee of the ACPI coincides with the centenary of the PA-JD as a degree-granting institution.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Book of the Month</title>
+				<link>http://localhost:1313/publications/book-of-the-month/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/publications/book-of-the-month/</guid>
+				<description>&lt;h2 id=&#34;placeholder-title&#34; class=&#34;relative group&#34;&gt;Placeholder Title &lt;/h2&gt;&lt;hr&gt;&#xA;&lt;h3 id=&#34;book-of-the-month---october-2026&#34; class=&#34;relative group&#34;&gt;Book of the Month - October 2026 &lt;/h3&gt;&lt;p&gt;Every month, we present a work for your special consideration.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Placeholder review. Placeholder review. Placeholder review.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Website Updates</title>
+				<link>http://localhost:1313/publications/website-updates/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/publications/website-updates/</guid>
+				<description>&lt;h2 id=&#34;updates-log---acpi-website-20&#34; class=&#34;relative group&#34;&gt;Updates Log - ACPI Website 2.0 &lt;/h2&gt;&lt;p&gt;This page is a log of all significant updates to the second ACPI website (launched in the ACPI Annual Meeting, October 2026, to mark the Golden Jubilee of the ACPI)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;10-october-2026-2306hrs&#34; class=&#34;relative group&#34;&gt;10 October 2026, 2306hrs &lt;/h3&gt;&lt;p&gt;Launch of bare-bones version of revamped ACPI website.&#xA;Content stored on Github. Static website built by Hugo. Served by Github pages. Themed by Congo.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
 			<item>
 				<title>Contact Us</title>
 				<link>http://localhost:1313/contact-us/</link>

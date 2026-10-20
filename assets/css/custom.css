@@ -101,3 +101,77 @@
   text-align: center;
   opacity: 0.85;
 }
+
+.acpi-tagline {
+  font-size: 1.15rem;
+  line-height: 1.5;
+  font-style: italic;
+  font-weight: 400;
+  text-align: right;
+  max-width: 40rem;
+  margin: 0.75rem 0 1.5rem auto;
+}
+
+.acpi-hero {
+  max-width: 60rem;
+  margin: 1.5rem auto 2rem;
+}
+
+.acpi-hero__title {
+  margin: 0;
+  text-align: center;
+}
+
+.acpi-hero__tagline {
+  margin: 0.5rem 0 0;
+  max-width: 28rem;
+  margin-left: auto;
+  text-align: right;
+  font-size: 1.05rem;
+  line-height: 1.4;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.acpi-announcement {
+  margin-top: 1.5rem;
+}
+
+.acpi-announcement__title {
+  margin: 0;
+  text-align: left;
+}
+
+.acpi-announcement__text {
+  margin: 0.35rem 0 0;
+  text-align: left;
+}
+
+.acpi-panels {
+  display: grid;
+  grid-template-columns: 1.35fr 0.95fr;
+  gap: 2.5rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.acpi-panel {
+  min-width: 0;
+}
+
+.acpi-panel + .acpi-panel {
+  border-left: 1px solid rgba(0, 0, 0, 0.14);
+  padding-left: 2.5rem;
+}
+
+@media (max-width: 900px) {
+  .acpi-panels {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  .acpi-panel + .acpi-panel {
+    border-left: 0;
+    padding-left: 0;
+  }
+}
