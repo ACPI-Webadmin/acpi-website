@@ -1,9 +1,12 @@
-{{ $lightLogo := site.Params.header.logo | default "images/logos/acpi_logo_circle.png" }}
-{{ $darkLogo := site.Params.header.logoDark | default $lightLogo }}
+<!-- OLD {{ $lightLogo := site.Params.header.logo | default "images/logos/acpi_logo_circle.png" }}
+{{ $darkLogo := site.Params.header.logoDark | default $lightLogo }} -->
+{{ $lightLogo := resources.Get (site.Params.header.logo | default "images/logos/acpi_logo_circle.png") }}
+{{ $darkLogo := resources.Get (site.Params.header.logoDark | default "images/logos/acpi_logo_circle-light.png") }}
 
 <header class="acpi-header">
   <div class="acpi-header__brand-row">
-    <a class="acpi-header__brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
+    <!-- OLD: <a class="acpi-header__brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}"> -->
+    <!--OLD <a class="acpi-header__brand" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ site.Title }}">    
       <picture class="acpi-header__picture">
         <source media="(prefers-color-scheme: dark)" srcset="{{ $darkLogo | relURL }}">
         <img
@@ -16,7 +19,25 @@
       {{ if site.Params.header.showTitle | default true }}
         <span class="acpi-header__title">{{ site.Title }}</span>
       {{ end }}
-    </a>
+    </a> OLD ENDS -->
+    <a class="acpi-header__brand" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ site.Title }}">
+		<picture class="acpi-header__picture">
+			{{ with $darkLogo }}
+			<source media="(prefers-color-scheme: dark)" srcset="{{ .RelPermalink }}">
+			{{ end }}
+			{{ with $lightLogo }}
+			<img
+				class="acpi-header__logo"
+				src="{{ .RelPermalink }}"
+				alt="{{ site.Title }}"
+			>
+			{{ end }}
+	</picture>
+
+		{{ if site.Params.header.showTitle | default true }}
+			<span class="acpi-header__title">{{ site.Title }}</span>
+		{{ end }}
+	</a>
   </div>
 
   {{ with site.Menus.main }}
