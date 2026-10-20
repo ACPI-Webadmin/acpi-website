@@ -3,22 +3,17 @@ title: "Association of Christian Philosophers of India (ACPI)"
 
 ---
 
- [Read About Us](/about-us/)
 
-# WE WELCOME YOU
 
-to explore our re-launched website.
+# We've relaunched our online presence!
+
+You are welcome to explore this new website.
 
 ***
 
 ## News & Events
 
 - ACPI Annual Meet (2026-2027) 
-
-***
-
-## Announcements
-
 - Release of ACPI Encyclopedia
 - Launch of new ACPI Website
 
@@ -30,14 +25,3 @@ to explore our re-launched website.
 
 ***
 
-## Gallery
-
-- ACPI Annual Meet 2025-2026
-
-***
-
-## Become a member
-
-- Check out our membership requirements.
-
-***
