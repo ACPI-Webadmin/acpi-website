@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+# baseURL = "http://localhost:1313/"
+baseURL = "https://www.acpi.net.in/"
 languageCode = "en-us"
 title = "Association of Catholic Philosophers of India"
 
