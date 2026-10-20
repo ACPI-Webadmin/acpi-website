@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Annual Meetings on Association of Christian Philosophers of India</title>
+		<link>http://localhost:1313/annual-meetings/</link>
+		<description>Recent content in Annual Meetings on Association of Christian Philosophers of India</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate></lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/annual-meetings/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

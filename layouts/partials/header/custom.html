@@ -1,0 +1,33 @@
+{{ $lightLogo := site.Params.header.logo | default "images/logos/acpi_logo_circle.png" }}
+{{ $darkLogo := site.Params.header.logoDark | default $lightLogo }}
+
+<header class="acpi-header">
+  <div class="acpi-header__brand-row">
+    <a class="acpi-header__brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
+      <picture class="acpi-header__picture">
+        <source media="(prefers-color-scheme: dark)" srcset="{{ $darkLogo | relURL }}">
+        <img
+          class="acpi-header__logo"
+          src="{{ $lightLogo | relURL }}"
+          alt="{{ site.Title }}"
+        >
+      </picture>
+
+      {{ if site.Params.header.showTitle | default true }}
+        <span class="acpi-header__title">{{ site.Title }}</span>
+      {{ end }}
+    </a>
+  </div>
+
+  {{ with site.Menus.main }}
+    <nav class="acpi-header__nav" aria-label="Main navigation">
+      <ul class="acpi-header__menu">
+        {{ range . }}
+          <li class="acpi-header__menu-item">
+            <a class="acpi-header__menu-link" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  {{ end }}
+</header>

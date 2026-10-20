@@ -20,9 +20,11 @@ enableImageWebp = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  layout = "custom" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
+	logo = "images/logos/acpi_logo_circle-light.png"
+	logoDark = "images/logos/acpi_logo_circle.png"
   showTitle = true
 
 [footer]

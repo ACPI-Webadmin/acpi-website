@@ -11,22 +11,42 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "About Us"
+  pageRef = "about-us"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Membership"
+  pageRef = "membership"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Annual Meetings"
+  pageRef = "annual-meetings"
   weight = 30
-
+  
 [[main]]
-  identifier = "search"
+  name = "Publications"
+  pageRef = "publications"
+  weight = 40
+
+ 
+[[main]]
+  name = "Library"
+  pageRef = "library"
+  weight = 50
+  
+[[main]]
+  name = "Gallery"
+  pageRef = "gallery"
+  weight = 60  
+[[main]]
+  name = "Contact us"
+  pageRef = "contact-us"
+  weight = 70
+  
+[[main]]
+  identifier = "Dummy"
   weight = 99
   [main.params]
     action = "search"

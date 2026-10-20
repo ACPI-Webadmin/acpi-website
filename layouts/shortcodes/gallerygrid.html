@@ -1,0 +1,19 @@
+{{- $images := .Page.Resources.ByType "image" -}}
+{{- if gt (len $images) 0 -}}
+<div class="acpi-gallery-grid">
+  {{- range $images -}}
+    {{- $thumb := .Resize "320x" -}}
+    <figure class="acpi-gallery-card">
+      <a class="acpi-gallery-link" href="{{ .RelPermalink }}" target="_blank" rel="noopener">
+        <img
+          class="acpi-gallery-image"
+          src="{{ $thumb.RelPermalink }}"
+          alt="{{ .Title | default .Name }}"
+          loading="lazy"
+        >
+      </a>
+      <figcaption class="acpi-gallery-caption">Memories of ACPI</figcaption>
+    </figure>
+  {{- end -}}
+</div>
+{{- end -}}

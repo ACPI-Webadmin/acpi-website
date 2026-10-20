@@ -3,12 +3,14 @@ label = "English"
 direction = "ltr"
 weight = 1
 
-title = "Association of Catholic Philosophers of India"
+title = "Association of Christian Philosophers of India"
 # copyright = "Copy, _right?_ :thinking_face:"
+
 
 [params]
   dateFormat = "2 January 2006"
   description = "The official website of the Association of Catholic Philosophers of India."
+  
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
