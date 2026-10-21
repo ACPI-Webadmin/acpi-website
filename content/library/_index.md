@@ -2,6 +2,7 @@
 title: "ACPI Digital Library"
 date: 2026-10-04
 ---
+# TEXT STACK
 
 ## ACPI Special Series
 
@@ -27,3 +28,14 @@ The ACPI Special Series consists of occasional standalone volumes published by t
 | 22 | *Emancipative Education* (2023) | [Download PDF](/pdfs/special-series/ACPI%20-%2022%20Emancipative%20Education%20Proof%20...pdf) |
 | 23 | *Engulfing Presence of Artificial Intelligence* (2024) | [Download PDF](/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20...pdf) |
 | 24 | *Hope – Philosophizing from Multi-Horizons* (2025) | [Download PDF](/pdfs/special-series/ACPI%20-%2024%20Hope%20-%20Philosophizing%20From%20M...pdf) |
+
+
+
+# VIDEO STACK
+
+A selection of ACPI-related videos hosted on YouTube.
+
+| No. | Title | YouTube |
+|---|---|---|
+| 1 | 47th ACPI Conference on Hope: Philosophising from Multi-Horizons | [Watch on YouTube](https://www.youtube.com/watch?v=SG4efMhweQ8) |
+| 2 | ACPI Webinar March 2021: Fratelli Tutti - Philosophical Reflections | [Watch on YouTube](https://www.youtube.com/watch?v=wBNYYa7m57c) |
