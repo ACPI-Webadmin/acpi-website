@@ -4,10 +4,13 @@
 </div>
 
 <figure class="acpi-home-banner">
-  <img
-    src="/images/home/acpi-hero-banner.png"
-    alt="ACPI hero banner"
-  >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/images/home/acpi-hero-banner-dark.png">
+    <img
+      src="/images/home/acpi-hero-banner.png"
+      alt="ACPI hero banner"
+    >
+  </picture>
 </figure>
 
 ---
@@ -32,8 +35,15 @@
   <section class="acpi-panel">
     <h2>Featured Publication</h2>
     <ul>
-      <li><a href="/publications/book-of-the-month/">Book of the Month</a></li>
+      <li><a href="/publications/book-of-the-month/">Book of the Month: Oct 2026</a></li>
     </ul>
+  </section>
+
+  <section class="acpi-panel acpi-panel--cta">
+    <h2>Download 2026 Seminar Booklet</h2>
+	<a class="acpi-booklet-link" href="/pdfs/golden-jubilee-conference/ACPI_Golden_Jubilee_Seminar_Booklet_A4.pdf">
+		<img src="/images/home/ACPI_Golden_Jubilee_Seminar_Booklet_cover.png" alt="ACPI Golden Jubilee Seminar Booklet">
+	</a>
   </section>
 </div>
 

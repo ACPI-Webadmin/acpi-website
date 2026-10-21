@@ -149,8 +149,8 @@
 
 .acpi-panels {
   display: grid;
-  grid-template-columns: 1.35fr 0.95fr;
-  gap: 2.5rem;
+  grid-template-columns: 1.25fr 1fr 0.85fr;
+  gap: 2rem;
   align-items: start;
   margin-top: 2rem;
 }
@@ -161,7 +161,29 @@
 
 .acpi-panel + .acpi-panel {
   border-left: 1px solid rgba(0, 0, 0, 0.14);
-  padding-left: 2.5rem;
+  padding-left: 2rem;
+}
+
+.acpi-panel--cta {
+  text-align: center;
+}
+
+.acpi-panel--cta h2 {
+  margin-top: 0;
+}
+
+.acpi-booklet-link {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+.acpi-booklet-link img {
+  display: block;
+  width: 130px;
+  height: auto;
+  margin: 0 auto;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
 
 @media (max-width: 900px) {
@@ -180,6 +202,13 @@
   margin: 1.25rem auto 1.75rem;
 }
 
+.acpi-home-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.acpi-home-banner picture,
 .acpi-home-banner img {
   display: block;
   width: 100%;
