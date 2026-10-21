@@ -24,7 +24,7 @@ This is the context in which the Association of Christian Philosophers of India 
 
 Twenty-one papers, well-researched and stimulating, were presented. Except one (“AI Is a Misnomer: Intersection the Artificial, Natural, Virtual and the Spiritual”, by Augustine Pamplany), all those papers are included in this volume. The papers are roughly categorized, according to the themes and issues explored in them, into four parts, as papers with Philosophical Reflections, Ethical Considerations, Psycho-spiritual Deliberations and Socio-political Implications. The categorization is only a pedagogical tool, not a water-tight compartmentalisation, as some papers involve reflections on diverse areas. 
 
-Stephen S. Jayard 
-Faculty of Philosophy
-Jnana Deepa Institute of Philosophy & Theology, Pune
-17 May, 2024.
+### Stephen S. Jayard 
+#### Faculty of Philosophy
+#### Jnana Deepa Institute of Philosophy & Theology, Pune
+#### 17 May, 2024.
