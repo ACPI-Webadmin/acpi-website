@@ -3,6 +3,13 @@
   <p class="acpi-hero__tagline">Research, publications, &amp; annual conferences.</p>
 </div>
 
+<figure class="acpi-home-banner">
+  <img
+    src="/images/home/acpi-hero-banner.png"
+    alt="ACPI hero banner"
+  >
+</figure>
+
 ---
 
 <section class="acpi-announcement">
