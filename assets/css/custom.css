@@ -147,6 +147,7 @@
   text-align: left;
 }
 
+/* For the 3 column bottom row with the CTA */
 .acpi-panels {
   display: grid;
   grid-template-columns: 1.25fr 1fr 0.85fr;
@@ -213,4 +214,68 @@
   display: block;
   width: 100%;
   height: auto;
+}
+
+/* FOR THE LAUNCH */ 
+.acpi-bootstrap{
+    max-width:720px;
+    margin:3rem auto 0;
+    text-align:left;
+    font-family:Consolas, Monaco, "Courier New", monospace;
+    font-size:.95rem;
+    line-height:1.7;
+}
+
+.boot-line{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    opacity:0;
+    animation:bootAppear .15s forwards;
+    animation-delay:var(--delay);
+}
+
+.boot-status{
+    color:#2e8b57;
+    font-weight:700;
+    letter-spacing:.05em;
+}
+
+.boot-line-check .boot-status{
+    color:#2c7be5;
+}
+
+.boot-line-launch{
+    display:block;
+    margin-top:1rem;
+    color:#b22222;
+    font-weight:700;
+}
+
+.boot-line-launch::after{
+    content:"";
+    display:inline-block;
+    width:.65em;
+    height:1em;
+    margin-left:.2em;
+    background:currentColor;
+    animation:cursorBlink .8s infinite;
+    vertical-align:-0.15em;
+}
+
+@keyframes bootAppear{
+    from{
+        opacity:0;
+        transform:translateY(4px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+@keyframes cursorBlink{
+    50%{
+        opacity:0;
+    }
 }
