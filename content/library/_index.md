@@ -27,7 +27,7 @@ The ACPI Special Series consists of occasional standalone volumes published by t
 | 20 | *Philosophies of Transformative Practice* (2019) | [Download PDF](/pdfs/special-series/ACPI%20-%2020%20Philosophies%20of%20Transformative%20Practice-25%20Sept.pdf) |
 | 22 | *Emancipative Education* (2023) | [Download PDF](/pdfs/special-series/ACPI%20-%2022%20Emancipative%20Education%20Proof%20correction.pdf) |
 | 23 | *Engulfing Presence of Artificial Intelligence* (2024) | [Download PDF](/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20Intelligence-FINAL%2023rd Sep.pdf) |
-| 24 | *Hope – Philosophizing from Multi-Horizons* (2025) | [Download PDF](/pdfs/special-series/ACPI%20-%2024%20Hope%20-%20Philosophizing%20From%20Multi-Horizons%2-FINAL.pdf) |
+| 24 | *Hope – Philosophizing from Multi-Horizons* (2025) | [Download PDF](/pdfs/special-series/ACPI%20-%2024%20Hope%20-%20Philosophizing%20From%20Multi-Horizons%20-FINAL.pdf) |
 
 
 
