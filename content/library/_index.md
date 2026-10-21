@@ -23,11 +23,11 @@ The ACPI Special Series consists of occasional standalone volumes published by t
 | 13 | *History & Historizing* (2012) | [Download PDF](/pdfs/special-series/ACPI%20-%2013%20-%20On%20History.pdf) |
 | 17 | *Philosophizing the Body* (2016) | [Download PDF](/pdfs/special-series/ACPI%20-%2017%20Philosophizing%20the%20Body-22%20Sept.pdf) |
 | 18 | *Becoming a Nation* (2017) | [Download PDF](/pdfs/special-series/ACPI%20-%2018%20Becoming%20a%20Nation-25%20July.pdf) |
-| 19 | *Indian Hermeneutics of Suspicion* (2018) | [Download PDF](/pdfs/special-series/ACPI%20-%2019%20Indian%20Hermeneutics%20of%20Suspi...pdf) |
-| 20 | *Philosophies of Transformative Practice* (2019) | [Download PDF](/pdfs/special-series/ACPI%20-%2020%20Philosophies%20of%20Transformative%20...pdf) |
-| 22 | *Emancipative Education* (2023) | [Download PDF](/pdfs/special-series/ACPI%20-%2022%20Emancipative%20Education%20Proof%20...pdf) |
-| 23 | *Engulfing Presence of Artificial Intelligence* (2024) | [Download PDF](/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20...pdf) |
-| 24 | *Hope – Philosophizing from Multi-Horizons* (2025) | [Download PDF](/pdfs/special-series/ACPI%20-%2024%20Hope%20-%20Philosophizing%20From%20M...pdf) |
+| 19 | *Indian Hermeneutics of Suspicion* (2018) | [Download PDF](/pdfs/special-series/ACPI%20-%2019%20Indian%20Hermeneutics%20of%20Suspicion-13%20Sept.pdf) |
+| 20 | *Philosophies of Transformative Practice* (2019) | [Download PDF](/pdfs/special-series/ACPI%20-%2020%20Philosophies%20of%20Transformative%20Practice-25%20Sept.pdf) |
+| 22 | *Emancipative Education* (2023) | [Download PDF](/pdfs/special-series/ACPI%20-%2022%20Emancipative%20Education%20Proof%20correction.pdf) |
+| 23 | *Engulfing Presence of Artificial Intelligence* (2024) | [Download PDF](/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20Intelligence-FINAL%2023rd Sep.pdf) |
+| 24 | *Hope – Philosophizing from Multi-Horizons* (2025) | [Download PDF](/pdfs/special-series/ACPI%20-%2024%20Hope%20-%20Philosophizing%20From%20Multi-Horizons%2-FINAL.pdf) |
 
 
 
