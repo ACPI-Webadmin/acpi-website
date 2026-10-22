@@ -29,7 +29,7 @@
     <ul>
       <li><a href="/annual-meetings/upcoming-meeting/">ACPI Annual Meet (2026–2027)</a></li>
       <li><a href="/publications/acpi-encyclopedia/acpi-encyclopedia-presidents-message">Release of ACPI Encyclopedia</a></li>
-      <li><a href="/publications/website-updates">Launch of new ACPI Website</a></li>
+      <li><a href="/gallery">Preserving memories</a></li>
     </ul>
   </section>
 
