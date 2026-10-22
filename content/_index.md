@@ -33,11 +33,11 @@
     </ul>
   </section>
 
-  <section class="acpi-panel">
-    <h2>Featured Publication</h2>
-    <ul>
-      <li><a href="/publications/book-of-the-month/">Book of the Month: Oct 2026</a></li>
-    </ul>
+  <section class="acpi-panel acpi-panel--cta">
+    <h2>Book of the Month: October 2026</h2>
+	<a class="acpi-booklet-link" href="/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20Intelligence-FINAL%2023rd%20Sep.pdf">
+		<img src="/images/home/book-of-the-month/Engulfing_Presence_of_AI.jpg" alt="Book of the Month: October 2026" width="30" height="50">
+	</a>
   </section>
 
   <section class="acpi-panel acpi-panel--cta">
