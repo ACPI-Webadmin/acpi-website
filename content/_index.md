@@ -18,6 +18,7 @@
 <section class="acpi-announcement">
   <h2 class="acpi-announcement__title">We’ve relaunched our online presence!</h2>
   <p class="acpi-announcement__text">You are welcome to explore this new website.</p>
+  <a href="/about-us/presidents-message">Message from the President of the ACPI.</a>
 </section>
 
 ***
