@@ -9,8 +9,6 @@
   data-auto-appearance="{{- .Site.Params.autoSwitchAppearance | default "true" -}}"
 >
   {{- partial "head.html" . -}}
-  <!-- Checking Visitors, etc. -->
-  {{ partial "cloudflare-analytics.html" . }}
   <body
     class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
   >
@@ -49,8 +47,9 @@
         </div>
       {{ end }}
       {{- partial "footer.html" . -}}
+      {{- partial "cloudflare-analytics.html" . -}}
       {{ if .Site.Params.enableSearch | default false }}
-        {{- partial "search.html" . -}}
+      {{- partial "search.html" . -}}
       {{ end }}
     </div>
   </body>
