@@ -151,26 +151,29 @@
 .acpi-panels {
   display: grid;
   grid-template-columns: 1.25fr 1fr 0.85fr;
-  gap: 2rem;
-  align-items: start;
+  gap: 1rem;
+  align-items: stretch;
   margin-top: 2rem;
 }
 
 .acpi-panel {
   min-width: 0;
+  background: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.35rem;
+  padding: 1.25rem 1.2rem;
 }
 
-.acpi-panel + .acpi-panel {
-  border-left: 1px solid rgba(0, 0, 0, 0.14);
-  padding-left: 2rem;
+.acpi-panel h2 {
+  margin-top: 0;
+}
+
+.acpi-panel ul {
+  margin-bottom: 0;
 }
 
 .acpi-panel--cta {
   text-align: center;
-}
-
-.acpi-panel--cta h2 {
-  margin-top: 0;
 }
 
 .acpi-booklet-link {
@@ -181,11 +184,13 @@
 
 .acpi-booklet-link img {
   display: block;
-  width: 130px;
+  width: 120px;
   height: auto;
   margin: 0 auto;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
+
+/* Fine tuning panels */ 
 
 @media (max-width: 900px) {
   .acpi-panels {
@@ -193,10 +198,6 @@
     gap: 1.75rem;
   }
 
-  .acpi-panel + .acpi-panel {
-    border-left: 0;
-    padding-left: 0;
-  }
 }
 
 .acpi-home-banner {
@@ -287,4 +288,16 @@ article blockquote + p {
   font-size: 0.9rem;
   line-height: 1.35;
   opacity: 0.75;
+}
+/* Hyperlinks in muted burgundy*/
+main article a,
+main article a:visited {
+  color: #6f3a3a !important;
+}
+
+main article a:hover,
+main article a:focus {
+  color: #4f2727 !important;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
 }

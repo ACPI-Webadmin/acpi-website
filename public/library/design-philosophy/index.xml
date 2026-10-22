@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>On the Design Philosophy of this Website on Association of Christian Philosophers of India</title>
+		<link>http://localhost:1313/library/design-philosophy/</link>
+		<description>Recent content in On the Design Philosophy of this Website on Association of Christian Philosophers of India</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/library/design-philosophy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Website Updates</title>
+				<link>http://localhost:1313/library/design-philosophy/website-updates/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/library/design-philosophy/website-updates/</guid>
+				<description>&lt;h2 id=&#34;updates-log---acpi-website-20&#34; class=&#34;relative group&#34;&gt;Updates Log - ACPI Website 2.0 &lt;/h2&gt;&lt;p&gt;This page is a log of all significant updates to the second ACPI website (launched in the ACPI Annual Meeting, October 2026, to mark the Golden Jubilee of the ACPI)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;10-october-2026-2306hrs&#34; class=&#34;relative group&#34;&gt;10 October 2026, 2306hrs &lt;/h3&gt;&lt;p&gt;Launch of bare-bones version of revamped ACPI website.&#xA;Content stored on Github. Static website built by Hugo. Served by Github pages. Themed by Congo.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
+	</channel>
+</rss>
