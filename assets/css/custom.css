@@ -291,13 +291,34 @@ article blockquote + p {
 }
 /* Hyperlinks in muted burgundy*/
 main article a,
-main article a:visited {
+main article a:visited,
+main article table a,
+main article table a:visited {
   color: #6f3a3a !important;
 }
 
 main article a:hover,
-main article a:focus {
+main article a:focus,
+main article table a:hover,
+main article table a:focus {
   color: #4f2727 !important;
   text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Hyperlinks in tables in muted burgundy */
+main .prose a[href],
+main .prose a[href]:visited,
+main .prose table a[href],
+main .prose table a[href]:visited {
+  color: #6f3a3a !important;
+}
+
+main .prose a[href]:hover,
+main .prose a[href]:focus,
+main .prose table a[href]:hover,
+main .prose table a[href]:focus {
+  color: #4f2727 !important;
+  text-decoration: underline !important;
   text-underline-offset: 0.15em;
 }
