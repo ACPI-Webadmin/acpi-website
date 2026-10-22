@@ -279,3 +279,12 @@
         opacity:0;
     }
 }
+
+/* FOR CITATIONS */
+article blockquote + p {
+  margin-top: 0.25rem;
+  margin-left: 1.25rem;
+  font-size: 0.9rem;
+  line-height: 1.35;
+  opacity: 0.75;
+}

@@ -10,8 +10,15 @@
 		
 		
 		
-			<lastBuildDate></lastBuildDate>
+			<lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/library/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>On the Design Philosophy of this Website</title>
+				<link>http://localhost:1313/library/design-philosophy/</link>
+				<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/library/design-philosophy/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Version 0.0&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Last modified by: ACPI Webadmin&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Do you want to do Intellectual work? Begin by creating within you a zone of silence, a habit of recollection, a will to renunciation and detachment which puts you entirely at the disposal of work; acquire that state of soul unburdened by desire and self-will which is the state of grace of the intellectual worker. Without that you will do nothing, at least nothing worth while.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

@@ -25,6 +25,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/library/design-philosophy/</loc>
+            <lastmod>2026-10-20T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/launch/</loc>
             <lastmod>2026-10-20T00:00:00+00:00</lastmod>
           </url>
