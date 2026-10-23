@@ -35,7 +35,7 @@
 
   <section class="acpi-panel acpi-panel--cta">
     <h2>Book of the Month: October 2026</h2>
-	<a class="acpi-booklet-link" href="/pdfs/special-series/ACPI%20-%2023%20Engulfing%20Presence%20of%20Artificial%20Intelligence-FINAL%2023rd%20Sep.pdf">
+	<a class="acpi-booklet-link" href="/publications/book-of-the-month">
 		<img src="/images/home/book-of-the-month/Engulfing_Presence_of_AI.jpg" alt="Book of the Month: October 2026" width="30" height="50">
 	</a>
   </section>
