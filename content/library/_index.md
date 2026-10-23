@@ -2,9 +2,10 @@
 title: "ACPI Digital Library"
 date: 2026-10-04
 ---
-# TEXT STACK
 
-## ACPI Special Series
+## TEXT STACK
+
+### ACPI Special Series
 
 The ACPI Special Series consists of occasional standalone volumes published by the Association. The titles below are available for download.
 
@@ -31,7 +32,7 @@ The ACPI Special Series consists of occasional standalone volumes published by t
 
 
 
-# VIDEO STACK
+## VIDEO STACK
 
 A selection of ACPI-related videos hosted on YouTube.
 

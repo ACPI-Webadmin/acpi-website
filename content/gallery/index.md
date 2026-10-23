@@ -3,7 +3,7 @@ title: "Gallery"
 date: 2026-10-03
 ---
 
-# Gallery
+## Snapshots from the history of ACPI
 
 A selection of photographs from ACPI activities and meetings.
 

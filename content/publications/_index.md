@@ -2,8 +2,10 @@
 title: "Publications"
 date: 2026-10-03
 ---
+## ACPI Encyclopedia of Philosophy (Revised & Updated Edition) in 3 Volumes - RELEASED
+The ACPI Encyclopedia of Philosophy was released on 22 October, 2026, in the ACPI Golden Jubilee Seminar at the Pontifical Athenaeum Jnana Deepa, Pune. It will be available from the Asian Trading Corporation shortly. For more details, please scroll to the bottom of this page.
 
-# ACPI Publications from 2000 onward
+## ACPI Publications from 2000 onward
 
 Since around 2000–2002, ACPI has systematically published the proceedings of its annual seminars as the ACPI Annual Philosophy Series (later also called ACPI Annual Series). ACPI also issues occasional Special Series volumes. Publishers have included Media House, Asian Trading Corporation, and (more recently) Christian World Imprints in association with ACPI. A comprehensive list often appears in the front or back matter of recent ACPI edited volumes. The following is the best available compilation from Wikipedia, library catalogues, booksellers, and recent volumes:
 
@@ -28,7 +30,7 @@ Since around 2000–2002, ACPI has systematically published the proceedings of i
 
 ## Major additional publication
 
-- *ACPI Encyclopedia of Philosophy* (2 volumes, Eds. Johnson J. Puthenpurackal and George Panthanmackel, Asian Trading Corporation, Bangalore, 2010). A revised and enlarged three-volume edition is scheduled for release on 21 October 2026 at the Pontifical Athenaeum Jnana Deepa, Pune.
+- *ACPI Encyclopedia of Philosophy* (2 volumes, Eds. Johnson J. Puthenpurackal and George Panthanmackel, Asian Trading Corporation, Bangalore, 2010). A revised and enlarged three-volume edition was released on 21 October 2026 at the Pontifical Athenaeum Jnana Deepa, Pune.
 
 ### About the Revised and Enlarged ACPI Encyclopedia
 

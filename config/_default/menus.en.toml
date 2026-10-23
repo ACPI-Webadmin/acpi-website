@@ -16,34 +16,39 @@
   weight = 10
 
 [[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 20
+  
+[[main]]
   name = "Membership"
   pageRef = "membership"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Annual Meetings"
   pageRef = "annual-meetings"
-  weight = 30
+  weight = 40
   
 [[main]]
   name = "Publications"
   pageRef = "publications"
-  weight = 40
+  weight = 50
 
  
 [[main]]
   name = "Library"
   pageRef = "library"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Gallery"
   pageRef = "gallery"
-  weight = 60  
+  weight = 70  
 [[main]]
   name = "Contact us"
   pageRef = "contact-us"
-  weight = 70
+  weight = 80
   
 
 # -- Footer Menu --
