@@ -3,11 +3,11 @@ title: "Annual Meetings"
 date: 2026-10-02
 ---
 
-# ACPI Annual Research Seminars
+## ACPI Annual Research Seminars
 
 The Association of Christian Philosophers of India holds an annual research seminar, also called an annual research conference or annual meeting. The Association chooses a theme in advance, presents papers, and follows with discussion. Seminars are typically held in October at different venues across India. Numbering continues from the Association’s founding period (1976). A complete official chronological list from the earliest years is not publicly available in one place; the following is the most complete reconstruction from published volumes, library records, and news reports.
 
-## Selected Annual Meetings
+### Selected Annual Meetings
 
 - **31st Annual Meeting (2006):** Theme related to the dynamics of religion, *“Romancing the Sacred.”* Held at Sacred Heart Seminary, Poonamallee, Chennai (27–30 October 2006).
 - **35th Annual Meeting (approx. 2010):** Theme related to tradition and innovation, rootedness and openness.

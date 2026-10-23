@@ -26,7 +26,7 @@
   weight = 30
 
 [[main]]
-  name = "Annual Meetings"
+  name = "Seminars"
   pageRef = "annual-meetings"
   weight = 40
   
