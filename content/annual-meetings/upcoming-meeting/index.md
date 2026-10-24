@@ -4,6 +4,7 @@ date: 2026-10-20
 ---
 
 ## Pontifical Athenaeum - Jnana Deepa, Institute of Philosophy & Theology, Pune
+<span class="acpi-title-accent"></span>
 
 ### October 21-23, 2026
 Golden Jubilee of the ACPI.

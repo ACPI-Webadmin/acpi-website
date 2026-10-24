@@ -2,8 +2,10 @@
 title: "Contact Us"
 date: 2026-10-03
 ---
+<span class="acpi-title-accent"></span>
 
-For general enquiries, please contact: 
+### For general enquiries, please contact: 
+
 
 ## Postal Address:
 *Prof. Dr. Nishant A. Irudayadason*, 
@@ -21,6 +23,7 @@ Maharashtra, India
 ***
 
 
-To report any errors on the website, please contact: 
+### To report any errors on the website, please contact: 
+
 
 **e-mail: [ACPI Webadmin](mailto:acpi.webadmin@gmail.com)**

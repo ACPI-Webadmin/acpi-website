@@ -322,3 +322,12 @@ main .prose table a[href]:focus {
   text-decoration: underline !important;
   text-underline-offset: 0.15em;
 }
+
+/* A Dash of Colour */ 
+.acpi-title-accent {
+  display: block;
+  width: 5rem;
+  height: 0.3rem;
+  margin-top: 0.35rem;
+  background: #6f3a3a;
+}

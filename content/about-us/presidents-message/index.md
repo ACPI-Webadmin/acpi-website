@@ -4,6 +4,7 @@ date: 2026-10-03
 ---
 
 # President’s Message for the ACPI Website
+<span class="acpi-title-accent"></span>
 
 ## Welcome to the Association of Christian Philosophers of India
 

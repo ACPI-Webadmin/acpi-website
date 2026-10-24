@@ -2,8 +2,7 @@
 title: "President’s Message on the ACPI Encyclopedia - 2026 Edition"
 date: 2026-10-03
 ---
-
-# President’s Message about the Revised & Enlarged edition of the *ACPI Encyclopedia of Philosophy*
+<span class="acpi-title-accent"></span>
 
 As President of the Association of Christian Philosophers of India (ACPI), I am privileged to present this Revised and Enlarged Edition of the *ACPI Encyclopedia of Philosophy*, offered as a Golden Jubilee Souvenir marking fifty years of our Association (1976–2026). What began as a pioneering effort in 2010 has now matured into a more comprehensive three-volume work, reflecting the growth of philosophical inquiry among Christian thinkers in India and their sustained engagement with the wider intellectual world.
 

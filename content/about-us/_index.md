@@ -2,7 +2,7 @@
 title: "About Us"
 date: 2026-10-02
 ---
-
+<span class="acpi-title-accent"></span>
 
 The Association of Christian Philosophers of India (ACPI) is a registered society of Indian Christian philosophers committed to rigorous philosophical inquiry, research, education, and dialogue rooted in India. It brings together scholars engaged in teaching, research, and publication in philosophy to foster critical reflection, creative thinking, and constructive engagement with contemporary challenges.
 Membership is open to Indian Christians competent in philosophy (typically holding a Master’s degree or higher or engaged in teaching/research in philosophy or related fields), subject to application, sponsorship by an existing member, and acceptance by the Governing Body. The Association’s principal activity is its annual research seminar, held at different venues across India, where carefully chosen themes are explored through research papers and discussions. These proceedings, along with other publications—including the landmark ACPI Encyclopedia of Philosophy (2010)—form a significant contribution to Indian Christian philosophical literature.
@@ -35,6 +35,7 @@ ACPI’s mission is to promote the study, research, and teaching of philosophy f
 
 
 ## **Objectives**
+<span class="acpi-title-accent"></span>
 
 As stated in the Memorandum of Association, the objectives for which the Society is established are:
 

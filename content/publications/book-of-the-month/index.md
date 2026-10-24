@@ -2,10 +2,11 @@
 title: "Book of the Month"
 date: 2026-10-20
 ---
-***
+<span class="acpi-title-accent"></span>
+
 ### October 2026
 Every month, we present a work for your special consideration.
-***
+
 ## ENGULFING PRESENCE OF ARTIFICIAL INTELLIGENCE: PHILSOPHICAL REFLECTIONS OF ITS CHALLENGES & OPPORTUNITIES
 ### ACPI - Special Series Publication (No.23), 2023
 #### Papers presesented at Jnana Niketan - Institute of Philosophy & Religion, Little Flower Seminary, Aluva, Kerala

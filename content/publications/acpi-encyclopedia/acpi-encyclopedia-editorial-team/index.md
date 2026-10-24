@@ -1,20 +1,20 @@
 ---
-title: "Editorial Team"
+title: "Editorial Team of the ACPI Encyclopedia of Philosophy - 2026 Edition"
 date: 2026-10-03
 ---
+<span class="acpi-title-accent"></span>
 
-# Editorial Team of the *ACPI Encyclopedia of Philosophy* (Revised and Enlarged Edition)
 
-## Editor-in-Chief
+### Editor-in-Chief
 
 Dr. Johnson Puthenpurackal, OFM Cap
 
-## Associate Editors
+### Associate Editors
 
 - Dr. John Peter Vallabadoss, OFM Cap
 - Dr. George Panthanmackel, MSFS
 
-## Sectional Editors
+### Sectional Editors
 
 - Dr. Kuruvilla Pandikattu, SJ
 - Dr. Keith D’Souza, SJ
