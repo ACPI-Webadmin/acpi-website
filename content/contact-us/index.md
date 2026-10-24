@@ -2,7 +2,6 @@
 title: "Contact Us"
 date: 2026-10-03
 ---
-<span class="acpi-title-accent"></span>
 
 ### For general enquiries, please contact: 
 

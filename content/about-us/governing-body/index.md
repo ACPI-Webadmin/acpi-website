@@ -4,7 +4,7 @@ date: 2026-10-02
 ---
 
 ## Since October 2025
-<span class="acpi-title-accent"></span>
+
 
 ### Office Bearers
 

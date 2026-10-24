@@ -2,7 +2,6 @@
 title: "ACPI Digital Library"
 date: 2026-10-04
 ---
-<span class="acpi-title-accent"></span>
 
 ## TEXT STACK
 

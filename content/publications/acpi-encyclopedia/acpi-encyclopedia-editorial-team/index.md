@@ -2,7 +2,6 @@
 title: "Editorial Team of the ACPI Encyclopedia of Philosophy - 2026 Edition"
 date: 2026-10-03
 ---
-<span class="acpi-title-accent"></span>
 
 
 ### Editor-in-Chief

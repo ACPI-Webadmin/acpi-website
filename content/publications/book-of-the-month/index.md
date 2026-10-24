@@ -2,7 +2,7 @@
 title: "Book of the Month"
 date: 2026-10-20
 ---
-<span class="acpi-title-accent"></span>
+
 
 ### October 2026
 Every month, we present a work for your special consideration.

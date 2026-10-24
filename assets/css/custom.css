@@ -323,8 +323,18 @@ main .prose table a[href]:focus {
   text-underline-offset: 0.15em;
 }
 
-/* A Dash of Colour */ 
+/* A Dash of Colour - burgundy dash after titles v0 */ 
 .acpi-title-accent {
+  display: block;
+  width: 5rem;
+  height: 0.3rem;
+  margin-top: 0.35rem;
+  background: #6f3a3a;
+}
+
+/* Burgundy dash after titles v1 */
+main article h1:first-of-type::after {
+  content: "";
   display: block;
   width: 5rem;
   height: 0.3rem;

@@ -2,7 +2,7 @@
 title: "Membership Criteria of the Association of Christian Philosophers of India (ACPI)"
 date: 2026-10-02
 ---
-<span class="acpi-title-accent"></span>
+
 
 ## Original Membership Provisions
 

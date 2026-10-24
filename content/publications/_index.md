@@ -2,7 +2,7 @@
 title: "Publications"
 date: 2026-10-03
 ---
-<span class="acpi-title-accent"></span>
+
 
 ## ACPI Encyclopedia of Philosophy (Revised & Updated Edition) in 3 Volumes - RELEASED
 The ACPI Encyclopedia of Philosophy was released on 22 October, 2026, in the ACPI Golden Jubilee Seminar at the Pontifical Athenaeum Jnana Deepa, Pune. It will be available from the Asian Trading Corporation shortly. For more details, please scroll to the bottom of this page.

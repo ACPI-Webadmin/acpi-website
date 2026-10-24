@@ -2,7 +2,6 @@
 title: "Gallery"
 date: 2026-10-03
 ---
-<span class="acpi-title-accent"></span>
 
 ## Snapshots from the history of ACPI
 
