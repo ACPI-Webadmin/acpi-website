@@ -12,10 +12,11 @@
   <div class="acpi-hero__content">
 	<h1 class="acpi-hero__title">
 		<span class="acpi-hero__title-line">Association of</span>
-		<span class="acpi-hero__title-line">
-			Christian Philosophers of India (ACPI)
+		<span class="acpi-hero__title-line acpi-hero__title-line--nowrap">
+				Christian Philosophers of India 
 		</span>
-</h1>    <p class="acpi-hero__tagline">Research, publications, &amp; annual conferences.</p>
+	</h1>
+    <p class="acpi-hero__tagline">Research, publications, &amp; annual conferences.</p>
   </div>
 </div>
 
